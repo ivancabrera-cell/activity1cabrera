@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+  text-align: center;
+}
+header {
+  background: #1d428a;
+  color: white;
+  padding: 15px;
+}
+nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+.hero {
+  padding: 60px 20px;
+  background: #ffcd00;
+}
+img{
+  widows: 100px ;
+  height: 300px;
+  
+}
